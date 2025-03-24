@@ -1,3 +1,5 @@
+//exercise 7
+
 export default "Matt";
 export const computer = "MacBook Pro";
 const age = 43;
